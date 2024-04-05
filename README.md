@@ -38,11 +38,6 @@ Please ensure you adhere to the dataset's usage guidelines and cite it appropria
 
 ![iHGS MHI Sample](https://alvinlfc.com/image/mscnn/sample.jpg)
 
-## Published Manuscript
-
-The implementation of this research is published in an open-access journal.
-
-[In-Air Hand Gesture Signature Recognition using Multi-Scale Convolutional Neural Networks - JOIV](https://joiv.org/index.php/joiv/article/view/2359)
 
 ## Citation
 
