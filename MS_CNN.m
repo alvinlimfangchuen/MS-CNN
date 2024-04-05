@@ -88,4 +88,9 @@ options = trainingOptions('sgdm', ...
     'Verbose',false, ...
     'Plots','training-progress');
 
+%Remove this comment to train the model
 %net = trainNetwork(augimdsTrain,lgraph,options);
+
+% Enter the following code at matlab command window to view the architecture details
+% analyzeNetwork(mscnn);
+
