@@ -17,9 +17,19 @@ Our architecture was rigorously evaluated against other pre-trained models such 
 - MATLAB 2021a
 - MATLAB Deep Learning Toolbox
 
+### Dataset
+
+The implementation of this project is based on the In-Air Hand Gesture Signature (iHGS) database, which is currently the only publicly available image-based dataset for in-air hand gesture signature recognition. T
+For more information on the iHGS database and to access it for your research, please visit the following link and contact the corresponding author:
+
+[In-Air Hand Gesture Signature (iHGS) Database](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10439358/)
+
+Please ensure you adhere to the dataset's usage guidelines and cite it appropriately in your work.
+
+
 ## Published Manuscript
 
-The manuscript for "In-Air Hand Gesture Signature Recognition using Multi-Scale Convolutional Neural Networks" is published in a open-access journal
+The implementation of this research is published in a open-access journal
 
 [In-Air Hand Gesture Signature Recognition using Multi-Scale Convolutional Neural Networks - JOIV](https://joiv.org/index.php/joiv/article/view/2359)
 
