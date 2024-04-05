@@ -1,6 +1,6 @@
 # MS-CNN
 
-Implementation of Multi-Scale Convolutional For In-Air Hand Gesture Signature Recognition
+Implementation of Multi-Scale Convolutional Neural Networks For In-Air Hand Gesture Signature Recognition
 
 ## Abstract
 
