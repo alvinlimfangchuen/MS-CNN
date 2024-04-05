@@ -17,6 +17,13 @@ Our architecture was rigorously evaluated against other pre-trained models such 
 - MATLAB 2021a
 - MATLAB Deep Learning Toolbox
 
+## Published Manuscript
+
+The manuscript for "In-Air Hand Gesture Signature Recognition using Multi-Scale Convolutional Neural Networks" is published in a open-access journal
+
+[In-Air Hand Gesture Signature Recognition using Multi-Scale Convolutional Neural Networks - JOIV](https://joiv.org/index.php/joiv/article/view/2359)
+
+
 ## Citation 
 ```bibtex
 @article{lim2023inair,
