@@ -12,7 +12,10 @@ Our architecture was rigorously evaluated against other pre-trained models such 
 
 
 ## Getting Started
-
+To clone this repository and start exploring the MS-CNN project on your local machine.
+```bash
+git clone https://github.com/alvinlimfangchuen/MS-CNN.git
+```
 ### Prerequisites
 - MATLAB 2021a
 - MATLAB Deep Learning Toolbox
