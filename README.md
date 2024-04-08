@@ -10,7 +10,7 @@ The hand signature is a unique handwritten name or symbol serving as proof of id
 
 This paper introduces an in-air hand gesture signature recognition method employing convolutional neural networks (CNNs) to mitigate these concerns. We propose a shallow multi-scale CNN architecture utilizing kernel filters of sizes 3x3 and 5x5 to extract features at various scales parallely.
 
-Our architecture was rigorously evaluated against other pre-trained models such as GoogleNet, AlexNet, VGG-16, and ResNet-50 using the In-Air Hand Gesture Database (iHGS) under same experimental settings. The results indicate that our proposed model surpasses competing architectures with a leading accuracy of 93.00%, while also being resource-efficient, averaging just 3 minutes and 33 seconds for training.
+Our architecture was rigorously evaluated against other pre-trained models such as GoogleNet, AlexNet, VGG-16, and ResNet-50 using the In-Air Hand Gesture Database (iHGS) under same experimental settings. The results indicate that our proposed model surpasses competing architectures with a leading accuracy of 93.00%, while also being computationally efficient, averaging just 3 minutes and 33 seconds for training.
 
 ## Getting Started
 
