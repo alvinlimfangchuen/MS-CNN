@@ -44,8 +44,8 @@ Please ensure you adhere to the dataset's usage guidelines and cite it appropria
 ```bibtex
 @article{lim2023inair,
   title={In-air Hand Gesture Signature Recognition using Multi-Scale Convolutional Neural Networks},
-  author={Lim, A. F. C. and Khoh, W. H. and Pang, Y. H. and Yap, H. Y.},
-  doi = {https://dx.doi.org/10.30630/joiv.7.3-2.2359},
+  author={Alvin Fang Chuen Lim, Wee How Khoh, Ying Han Pang, Hui Yen Yap},
+  doi={https://dx.doi.org/10.30630/joiv.7.3-2.2359},
   journal={International Journal on Informatics Visualization},
   volume={7},
   number={3-2},
